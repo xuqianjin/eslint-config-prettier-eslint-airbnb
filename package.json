@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-prettier-eslint-airbnb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint Shareable Config",
   "homepage": "https://github.com/xuqianjin/eslint-config-prettier-eslint-airbnb#readme",
   "main": "index.js",
